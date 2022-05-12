@@ -1,15 +1,7 @@
-import java.io.IOException;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import java.net.DatagramPacket;
-import java.net.DatagramSocket;
-import java.net.Socket;
-import java.util.List;
-import java.util.Set;
-
-import javax.swing.ImageIcon;
-import javax.swing.JFrame;
-import javax.swing.JOptionPane;
+import java.io.*;
+import java.net.*;
+import java.util.*;
+import javax.swing.*;
 
 public class ClientBody extends Thread {
 	private Socket soc;
