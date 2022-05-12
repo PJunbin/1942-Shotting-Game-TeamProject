@@ -11,8 +11,15 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_301/jre/lib/ext/jlayer-1.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_301/jre/lib/ext/mysql-connector-java-8.0.23.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_301/jre/lib/ext/player.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_301/jre/lib/ext/mysql-connector-java-8.0.23.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_301/jre/lib/ext/player.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
